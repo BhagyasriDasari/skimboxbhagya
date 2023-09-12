@@ -1,4 +1,3 @@
-# skimboxbhagya
 
 Skimbox Assignment Link:
 1) Mobile design : https://drive.google.com/file/d/10uAg69gYUShr-tNooZe8mIkChdyvAVLP/view?usp=sharing
